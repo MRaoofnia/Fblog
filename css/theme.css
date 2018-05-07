@@ -1,0 +1,27 @@
+body{
+	background-color: #e6f0ff;
+	padding: 0px;
+}
+
+
+
+h4,p,a{
+	direction: rtl;
+}
+.well{
+	direction: rtl;
+}
+
+a{
+	float: right;
+}
+
+section{
+	padding:20px;
+}
+
+
+h2{
+	margin:0px;
+	color: #FFFFFF;
+}
