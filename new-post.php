@@ -49,9 +49,9 @@
       <a class="navbar-brand" href="#"><?=$blog['blog_title']?></a>
     </div>
     <ul class="nav navbar-nav">
-      <li ><a href="../fblog/">Home</a></li>
+      <li ><a href="../Fblog/">Home</a></li>
       <li><a href="callme.html">تماس با ما</a></li> 
-      <li><a href="aboutus.html">درباره ما</a></li> 
+      <li><a href="aboutus.HTML">درباره ما</a></li> 
       <li class="active"><a href="new-post.php">افزودن پست</a></li>
     </ul>
   </div>
